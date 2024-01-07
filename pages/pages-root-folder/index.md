@@ -22,13 +22,15 @@ header:
 show_meta: false
 title: "Welcome"
 subheadline: "Saurabh Kumar"
-teaser: "Seasoned Software Engineer with over 8 years of professional experience in software development at top product companies. Enjoys travel, food, music and movies. Love to discuss ideas, meet new people, innovate and drink coffee."
+teaser: "Seasoned Software Engineer with over 10 years of professional experience in software development at top product companies. Enjoys travel, food, music and movies. Love to discuss ideas, meet new people, innovate and drink coffee."
 permalink: /index.html
 ---
 
 
 ## Introduction <i class="fa fa-user fa-1x"></i>
-My name is Saurabh Kumar and I currently work as a Senior Software Engineer @ Cisco. I possess over 10 years of professional experience as a software developer in leading multinational product companies. I have a Master's degree in Computer Science from Texas A&M University(College Station) and a Bachelor's Degree in Computer Science from Indian Institute of Technology (IIT). <br>
+My name is Saurabh Kumar and I currently work as a Lead Software Engineer @ Cisco. I possess over 10 years of professional experience as a software developer in leading multinational product companies. I have a Master's degree in Computer Science from Texas A&M University(College Station) and a Bachelor's Degree in Computer Science from Indian Institute of Technology (IIT). <br>
+
+I enjoy writing code, building new software and fixing issues. I primarily work in C, C++ & Python and possess experience developing features and fixing issues in a wide variety of programming languages and frameworks. I have experience in all the phases of SDLC and possess hands on experience interacting with customers, project planning, execution and delivery. 
 
 In my current role, I am focused on the development & extension of LLVM infrastructure to build tools and software for the improvement of high-performance DSP firmware. I am working on investigation & proposal of UBSan adaptation to support full runtime dynamic analysis in memory constrained embedded environments within the 5G domain. I also conceptualized several static analysis checkers to automatically identify and correct bug prone C code in the firmware. I collaborated with several teams to conceive feature extensions & integration of CodeChecker to facilitate static and dynamic analysis of entire C source code at Ericsson. Additionally, I proposed, built & deployed a tool to automatically format C source code according to Ericsson coding guidelines which resulted in significant reduction of customer issues due to incorrect programming practices. <br>
 
