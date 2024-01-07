@@ -1,0 +1,116 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About Me
+  url: "/about-me/"
+  side: left
+
+- title: Education
+  url: "/about-me/education/"
+  side: left
+
+- title: "Professional"
+  url: "/about-me/professional/"
+  side: left
+
+- title: "Technical Skills"
+  url: "/about-me/technical-skills/"
+  side: left
+
+- title: "Projects"
+  url: "/about-me/projects/"
+  side: left
+
+- title: "Memberships"
+  url: "/about-me/memberships/"
+  side: left
+
+- title: "Extracurricular"
+  url: "/about-me/extracurricular/"
+  side: left
+
+# - title: About Me
+#   url: "/about-me/"
+#   side: left
+#   dropdown:
+#   - title: "Professional"
+#     url: "/about-me/professional/"
+#   - title: "Projects"
+#     url: "/about-me/projects/"
+#   - title: "Memberships"
+#     url: "/about-me/memberships/"
+#   - title: "Extracurricular"
+#     url: "/about-me/extracurricular/"
+
+  # url: "/technical/"
+  # side: left
+  # dropdown:
+  # - title: "C/C++"
+  #   url: "/technical/c-programming/"
+  # - title: "Algorithms"
+  #   url: "/technical/algorithms/"
+  # - title: "Data Structures"
+  #   url: "/technical/data-structures/"
+  # - title: "System Design"
+  #   url: "/technical/system-design/"
+  # - title: "LLVM"
+  #   url: "/technical/llvm/"
+  # - title: "Bazel"
+  #   url: "/technical/bazel/"
+
+# - title: "Photography"
+#   url: "/photography/"
+#   side: left
+#   dropdown:
+#   - title: "United States"
+#     url: "/photography/usa/"
+#   - title: "Texas"
+#     url: "/photography/usa/texas/"
+#   - title: "India"
+#     url: "/photography/india/"
+#   - title: "Nepal"
+#     url: "/photography/nepal/"
+
+# - title: "Travel Diaries"
+#   url: "/travel-diaries/"
+#   side: left
+#   dropdown:
+#   - title: "Travel Guide"
+#     url: "/travel-diaries/travel-guide/"
+#   - title: "United States"
+#     url: "/travel-diaries/usa/"
+#   - title: "Texas"
+#     url: "/travel-diaries/usa/texas/"
+#   - title: "India"
+#     url: "/travel-diaries/india/"
+#   - title: "Nepal"
+#     url: "/travel-diaries/nepal/"
+
+# - title: Lifestyle
+#   url: "/lifestyle/"
+#   side: left
+#   dropdown:
+#   - title: "Cooking"
+#     url: "/lifestyle/cooking/"
+#   - title: "Fitness"
+#     url: "/lifestyle/fitness/"
+#   - title: "Music"
+#     url: "/lifestyle/music/"
+#   - title: "Fun Ideas"
+#     url: "/lifestyle/fun-ideas/"
+
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
+
+# - title: "Search"
+#   url: "/search/"
+#   side: right
+
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right
