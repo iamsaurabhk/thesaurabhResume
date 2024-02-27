@@ -7,7 +7,7 @@ sidebar: right
 comments: true
 breadcrumb: true
 header:
-   image_fullwidth: "pages/technical/header.jpg"
+   image_fullwidth: "pages/about-me/professional/header.jpg"
 permalink: "/technical/"
 ---
 <ul>
