@@ -23,7 +23,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://thesaurabhkumar.github.io/thesaurabhHome/images/'
+urlimg: 'https://iamsaurabhk.github.io/thesaurabhResume/images/'
 
 
 # Logo size is 600x80 pixels
