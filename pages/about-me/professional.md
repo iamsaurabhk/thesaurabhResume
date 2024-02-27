@@ -23,7 +23,7 @@ permalink: "/about-me/professional/"
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <br>
 <div class="border-dotted radius b30">
-		<img src="{{ site.urlimg }}profile_pic.jpg" alt="Saurabh Kumar">
+		<img src="{{ site.urlimg }}profile_pic.jpeg" alt="Saurabh Kumar">
 </div>
 <div class="panel radius" markdown="1">
 **Table of Contents**
