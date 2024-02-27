@@ -6,7 +6,7 @@ subheadline: "Saurabh Kumar"
 teaser: "A software engineer by profession, I am passionate about all things engineering. I enjoy conceptualizing, designing, building, and improvising products. I thrive on the collective exploration and exchange of ideas, enthusiastically fostering collaborative dialogue on intricate technical subjects"
 breadcrumb: true
 header:
-   image_fullwidth: "pages/about-me/professional/header.jpg"
+   image_fullwidth: "pages/technical/llvm/llvm-header.png"
 permalink: "/about-me/professional/"
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
