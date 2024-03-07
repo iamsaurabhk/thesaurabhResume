@@ -43,11 +43,12 @@ Compiler enthusiast and LLVM aficionado passionate about delving into cutting-ed
 
 
 ## Areas of Interest <i class="fa fa-laptop fa-1x"></i>
-- Compiler engineering primarily the compiler frontent. I work on AST analysis, IR (LLVM IR) generation, and Code Optimizations.
+- Compiler engineering primarily the compiler frontend. I work on AST analysis, IR (LLVM IR) generation, and Code Optimizations
 - Static Analysis via the LLVM infrastructure including building linters such as clang-tidy checkers and enhancing the Clang Static Analyzer to peform more complex static analysis of source code
 - Dynamic Analysis using the Undefined Behavior sanitizer from the LLVM infrastrucure including enhancements to binary instrumentation for efficient dynamic analysis in resource constrained environments
 - Advance data structures and algorithms which are particularly useful in Compiler technologies development
-- Dedicated to driving innovation across the entire spectrum of software engineering, I continually seek novel approaches and cutting-edge technologies to enhance efficiency, performance, and user experience.
+- Dedicated to driving innovation across the entire spectrum of software engineering, I continually seek novel approaches and cutting-edge technologies to enhance efficiency, performance, and user experience
+- Enjoy mentoring junior engineers, providing guidance, and fostering knowledge sharing on technical subjects 
 
 
 ## Job Experiences <i class="fa fa-building fa-1x"></i>
@@ -57,10 +58,10 @@ Compiler enthusiast and LLVM aficionado passionate about delving into cutting-ed
 - __Location:__ San Jose, California, USA
 - __Company Website:__ [www.cisco.com](http://www.cisco.com){:target="_blank"}
 - __AREAS OF WORK:__
-  + Compiler frontend enhancements, supporting language constructs for LLVM IR and Codegen. 
+  + Compiler frontend enhancements, supporting language constructs for LLVM IR and Codegen
   + Compiler optimizations via LLVM IR Passes and other techniques
-  + Conceptualizing tools and practices to reduce turnaround time for identifying, debugging and triaging software crashes, primarily due to invalid memory access
-  + Integration, support and enhancement of CodeChecker to speed up code analysis and enhance the debugging experience 
+  + Development & extension of Undefined Behavior Sanitizer from LLVM to support dynamic analysis in resource constrained environments
+  + Integration, support and enhancement of CodeChecker to speed up code analysis, enhance the debugging experience and reduce triage turnaround time
 
 
 #### Compiler Developer @ Ericsson Inc.
@@ -68,11 +69,10 @@ Compiler enthusiast and LLVM aficionado passionate about delving into cutting-ed
 - __Location:__ Austin, Texas, USA
 - __Company Website:__ [www.ericsson.com](http://www.ericsson.com){:target="_blank"}
 - __AREAS OF WORK:__
-  + Development & extension of Undefined Behavior Sanitizer from LLVM to support full runtime dynamic analysis in memory constrained embedded environments within the 5G domain
+  + Conceptualizing tools and practices to reduce turnaround time for identifying, debugging and triaging software crashes, primarily due to invalid memory access
   + clang-tidy based static analysis checker conceptualizations and development to automatically identify and fix bug prone C code in DSP C firmware
-  + Infrastructure development and feature extensions for integration of CodeChecker to facilitate static and dynamic analysis of entire C source code at Ericsson
   + Clang static analyzer compatibility enhancements to enable symbolic execution of C source code at Ericsson
-  + Cross team deployment of a tool created to automatically format C source code according to coding guidelines resulting in significant reduction of customer issues due to incorrect programming practices
+  + Architecting, development and cross team deployment of a tool created to automatically format C source code according to coding guidelines resulting in significant reduction of customer issues due to incorrect programming practices
   
 
 #### Lead Member of Technical Staff (R&D) @ Mentor, A Siemens Business
